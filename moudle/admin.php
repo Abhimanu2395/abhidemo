@@ -14,7 +14,7 @@
 		
             <div class="col-12 text-center my-5">
              <h4>
-               Registration
+               Registration abhi
              </h4>
             
             </div>
